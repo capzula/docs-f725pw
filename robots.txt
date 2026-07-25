@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-kuy5ie.planetjp.online/sitemap.xml
